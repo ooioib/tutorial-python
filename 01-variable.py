@@ -28,4 +28,3 @@ x, y, z = subjects
 print(x)
 print(y)
 print(z)
-

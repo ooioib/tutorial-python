@@ -25,5 +25,3 @@ print(a.upper())  # 대문자로 변환
 print(a.lower())  # 소문자로 변환
 print(a.replace("Python", "Java"))  # 특정 문자열 대체
 print(a.split(", "), type(a.split(","))) # 문자열 분리(split), 구분자 기준으로 나눠서 리스트로 반환
-
-

@@ -22,4 +22,3 @@ print(c1)
 
 c1.radius = 10
 c1.corn = True
-

@@ -40,4 +40,3 @@ print(s3 ^ s4)
 arr = [1, 2, 3, 4, 5, 1, 3, 5]
 v = list(set(arr))
 print(v)
-

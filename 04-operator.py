@@ -36,5 +36,3 @@ print(a is c)  # True
 num = 4
 r = "even" if num % 2 == 0 else "odd"
 print(r)  # even
-
-
